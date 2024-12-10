@@ -40,4 +40,4 @@ The files that will be synced are:
 Please refer to the full logs [here](logs/sentiment.txt).
 
 ##  Digit classification Model (MNIST)
-Please refer to the full logs [here](logs/mnist.txt).
+Please refer to the log snippet [here](logs/mnist.txt).
